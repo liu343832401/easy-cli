@@ -14,9 +14,9 @@
 用于react打包，包含了react打包基础配置。
 
 ###特点
+1. 基于webpack4,及其轻量级,可快速自定义webpack配置(多目录，动态cdn, 静态资源拆分等)
 
-1.基于webpack4,及其轻量级,可快速自定义webpack配置(多目录，动态cdn, 静态资源拆分等)
-2.抽取了react-scripts和vue-cli中的打包部分,用于快速搭建vue和react项目，同时也利于初学者快速学习vue-cli和react-scripts
+2. 抽取了react-scripts和vue-cli中的打包部分,用于快速搭建vue和react项目，同时也利于初学者快速学习vue-cli和react-scripts
 
 ### 开发及维护人员
 |Name|Email|
